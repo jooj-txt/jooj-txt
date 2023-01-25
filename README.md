@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Meu nome é José Rubens, estou no 3º do ETIM(Desenvolvimento de Sistemas Integrado ao Ensino Médio) na Etec de Taboão da Serra, onde estudo integralmente, estou a procura na primeira oportunidade de trabalho na área de TI
+Meu nome é José Rubens, estou no 3º do ETIM(Desenvolvimento de Sistemas Integrado ao Ensino Médio) na Etec de Taboão da Serra, onde estudo integralmente, estou a procura da primeira oportunidade de trabalho na área de TI
 
 
 ## 🛠 Habilidades
