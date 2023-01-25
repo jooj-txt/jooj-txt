@@ -15,7 +15,7 @@ Tenho estudo nas tecnologias C#, JavaScript, HTML, CSS, ASP.NET, Mysql e React N
 
 
 
-## Outras seções comuns em perfis do GitHub
+## Outros
 🚀 Estou a procura da minha primeira oportunidade de trabalho na área
 
 🧠 Estou aprendendo atualmente a implementação de API's em sites com html/javascript, React Native e Protocolos de internet. 
