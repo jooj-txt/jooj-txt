@@ -3,8 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Meu nome é José Rubens, cursei o ETIM(Desenvolvimento de Sistemas Integrado ao Ensino Médio) na Etec de Taboão da Serra, onde estudei integralmente, estou a procura da primeira oportunidade de trabalho na área de TI.
-
+Meu nome é José Rubens, cursei o ETIM(Desenvolvimento de Sistemas Integrado ao Ensino Médio) na Etec de Taboão da Serra, onde estudei integralmente, atualmente curso ciencia e tecnolgia, na Universidade Federal de São Paulo.
 
 ## 🛠 Habilidades
 Possuo estudo nas tecnologias C#, JavaScript, HTML, CSS, ASP.NET, Mysql e React Native.
